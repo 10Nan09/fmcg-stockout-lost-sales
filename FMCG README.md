@@ -92,6 +92,13 @@ pip install -r requirements.txt
 
 ---
 
+## 📂 Sample Dataset
+
+A sample dataset (`sample_fmcg_data.csv`) is included in the `/data` folder to help replicate the project pipeline.  
+The original dataset is confidential and not shared publicly.
+
+---
+
 ## 🙌 Acknowledgments
 
 Thanks to domain experts and public FMCG datasets that inspired this case study.
